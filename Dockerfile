@@ -1,6 +1,6 @@
 FROM maven:3.3.9-jdk-8-alpine
 
-MAINTAINER Saurabh Oza "saurabh.oza@siemens.com"
+MAINTAINER Saurabh Oza "saurabh.devops@gmail.com"
 
 WORKDIR /home/maven
 
